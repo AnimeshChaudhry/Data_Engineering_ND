@@ -35,7 +35,7 @@ Scaled up the current ETL pipeline by moving the data warehouse to a data lake.
 
 ```Utilized: Spark, S3, EMR, Athena, Amazon Glue, Parquet.```
 
-## Project 5: [Data Pipelines - Airflow]()
+## Project 5: [Data Pipelines - Airflow](https://github.com/AnimeshChaudhry/Data_Engineering_ND/tree/master/Data%20Pipelines%20-%20Airflow)
 Automate the ETL pipeline and creation of data warehouse using Apache Airflow. 
 * Using Airflow to automate ETL pipelines and get them production ready.
 * Writing custom operators to perform tasks such as staging data, filling the data warehouse, and validation through defined data quality checks.
